@@ -1,4 +1,4 @@
-# Calculator-usinf-Flutter-
+# Calculator-using-Flutter-
 The simple calculator apk code is developed and 
 uploaded In this reposotary. 
 This code uses a flutters dart language. 
