@@ -7,3 +7,5 @@ code In the lib folder of the flutter files.
 The apk link is also provided in this reposotary 
 you can download and install the app in your mobile 
 Like installing apps from play store. 
+The app is not published in the play store so it shows some warning while installing.
+Trust it and install it :).
