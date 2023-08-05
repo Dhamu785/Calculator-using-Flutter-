@@ -10,3 +10,7 @@ Like installing apps from play store.
 The app is not published in the play store so it shows some warning while installing.
 Trust it and install it :).
 The previews of the app are also added.
+
+| Sample images | Samples |
+:-------------------------:|:-------------------------:
+| <img src="https://github.com/Dhamu785/Dhamu785/blob/main/Images/Calculator/Calculator1.jpeg"> | <img src="https://github.com/Dhamu785/Dhamu785/blob/main/Images/Calculator/Calculator2.jpeg"> |
