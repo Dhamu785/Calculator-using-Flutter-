@@ -13,4 +13,4 @@ The previews of the app are also added.
 
 | Sample images | Samples |
 :-------------------------:|:-------------------------:
-| <img src="https://github.com/Dhamu785/Dhamu785/blob/main/Images/Calculator/Calculator1.jpeg"> | <img src="https://github.com/Dhamu785/Dhamu785/blob/main/Images/Calculator/Calculator2.jpeg"> |
+| <a href="https://github.com/Dhamu785"><img src="https://github.com/Dhamu785/Dhamu785/blob/main/Images/Calculator/Calculator1.jpeg"></a> | <a href="https://github.com/Dhamu785"> <img src="https://github.com/Dhamu785/Dhamu785/blob/main/Images/Calculator/Calculator2.jpeg"></a> |
